@@ -10,44 +10,7 @@ I am an Accessibility Software Testing Engineer with over 4 years of experience 
 I have extensive experience validating new features, ensuring product quality, and improving usability for diverse users. I pay strong attention to detail and focus on delivering reliable and user-friendly solutions.
 
 In addition, I have over 3 years of professional experience in the field of economics, which has strengthened my analytical thinking and problem-solving skills.
-## Skills:
-Accessibility Testing:
 
-Proficient in accessibility testing on Windows (Chrome, Edge, Firefox), iOS (Safari, Chrome, Firefox), MacOS (Safari, Chrome, Firefox)
-Practical experience with screen readers: NVDA, JAWS, VoiceOver
-Performing accessibility assessments (A11y) for features and providing recommendations for bug fixes
-
-Testing & QA:
-
-Creating/updating test documentation, defect hunting, bug reporting, maintaining, and retesting
-Review, analysis, and clarification of requirements
-Novice knowledge of API testing and SQL
-Participated in crowd testing on Test IO
-
-Agile & Teamwork:
-
-Participated in Scrum events: Daily Meeting, Sprint Planning, Demo, Review, Retrospective
-Good team player with time management, communication, and interpersonal skills
-Self-motivated, responsible, and quick to learn new technologies
-
-Tools & Technologies:
-
-Accessibility standards & guidelines: WCAG 2.0, WCAG 2.1, WAI-ARIA
-Testing & analysis tools: JAWS, NVDA, VoiceOver, Color Contrast Analyzer (CCA), Dyslexic Browser, AXE DevTools, Lighthouse, Siteimprove Accessibility Checker, WebAIM, Access Assistant, ANDI, WAVE, Accessibility Insights for Web, Bookmarklets
-Web & Dev tools: HTML/CSS, DevTools
-Project & productivity tools: Azure DevOps, MS Office, Adobe Acrobat
-## Education:
-Belarusian State University of Economics
-Bachelor's Degree 2021
-Faculty of Accounting and Economics
-Accounting, analysis and audit in commercial and nonprofit organizations
-## Cources:
-Software testing
-IT Academy
-July 2021-September 2021
-U.S. Department of Homeland Security
-
-DHS Trusted Tester™ Certification
 ## Experience:
 EPAM Systems – Accessibility & Quality Engineer
 
@@ -81,6 +44,46 @@ Accounting of loans, rent, insurance, and fixed assets
 Assisting in financial statements and accounting processes
 
 Tools & Technologies: 1C Enterprise, MS Office
+
+## Skills:
+Accessibility Testing:
+
+Proficient in accessibility testing on Windows (Chrome, Edge, Firefox), iOS (Safari, Chrome, Firefox), MacOS (Safari, Chrome, Firefox)
+Practical experience with screen readers: NVDA, JAWS, VoiceOver
+Performing accessibility assessments (A11y) for features and providing recommendations for bug fixes
+
+Testing & QA:
+
+Creating/updating test documentation, defect hunting, bug reporting, maintaining, and retesting
+Review, analysis, and clarification of requirements
+Novice knowledge of API testing and SQL
+Participated in crowd testing on Test IO
+
+Agile & Teamwork:
+
+Participated in Scrum events: Daily Meeting, Sprint Planning, Demo, Review, Retrospective
+Good team player with time management, communication, and interpersonal skills
+Self-motivated, responsible, and quick to learn new technologies
+
+Tools & Technologies:
+
+Accessibility standards & guidelines: WCAG 2.0, WCAG 2.1, WAI-ARIA
+Testing & analysis tools: JAWS, NVDA, VoiceOver, Color Contrast Analyzer (CCA), Dyslexic Browser, AXE DevTools, Lighthouse, Siteimprove Accessibility Checker, WebAIM, Access Assistant, ANDI, WAVE, Accessibility Insights for Web, Bookmarklets
+Web & Dev tools: HTML/CSS, DevTools
+Project & productivity tools: Azure DevOps, MS Office, Adobe Acrobat
+
+## Education:
+Belarusian State University of Economics
+Bachelor's Degree 2021
+Faculty of Accounting and Economics
+Accounting, analysis and audit in commercial and nonprofit organizations
+## Cources:
+Software testing
+IT Academy
+July 2021-September 2021
+U.S. Department of Homeland Security
+
+DHS Trusted Tester™ Certification
 ## Languages:
 Russian – Native (C2)
 English – Upper-Intermediate (B2)
