@@ -3,6 +3,7 @@
 
 ---
 ## **Contact information:**
+
 **Phone:** +375 29 657-92-41  
 **E-mail:** alex.ermakova8@gmail.com   
 **LinkedIn:** linkedin.com/in/alexandra-ermakova  
@@ -13,6 +14,7 @@ I am an Accessibility Software Testing Engineer with over 4 years of experience 
 I have extensive experience validating new features, ensuring product quality, and improving usability for diverse users. I pay strong attention to detail and focus on delivering reliable and user-friendly solutions.
 
 In addition, I have over 3 years of professional experience in the field of economics, which has strengthened my analytical thinking and problem-solving skills.
+
 ---
 ## **Experience:**
 #### **EPAM Systems – Accessibility Software Testing Engineer**
@@ -47,6 +49,7 @@ Responsibilities:
 * Assisting in financial statements and accounting processes
 
 Tools & Technologies: 1C Enterprise, MS Office
+
 ---
 ## **Skills:**
 Accessibility Testing:
@@ -76,15 +79,20 @@ Tools & Technologies:
 * Project & productivity tools: Azure DevOps, MS Office, Adobe Acrobat
 ---
 ## **Education:**
-Belarusian State University of Economics  
+
+#### Belarusian State University of Economics  
+
 Bachelor's Degree 2021  
 Faculty of Accounting and Economics  
 Accounting, analysis and audit in commercial and nonprofit organizations  
 ## **Cources:**
-Software testing  
+
+#### Software testing  
+
 IT Academy  
 July 2021-September 2021  
 
+#### Trusted tester
 DHS Trusted Tester™ Certification  
 U.S. Department of Homeland Security  
 
