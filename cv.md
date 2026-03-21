@@ -7,6 +7,7 @@
 **Phone:** +375 29 657-92-41  
 **E-mail:** alex.ermakova8@gmail.com   
 **LinkedIn:** linkedin.com/in/alexandra-ermakova  
+**Discord:** Aliaksandra Y (@alexermakova)
 
 ---
 ## **About Me:**
