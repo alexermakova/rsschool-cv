@@ -79,6 +79,7 @@ Tools & Technologies:
 * Testing & analysis tools: JAWS, NVDA, VoiceOver, Color Contrast Analyzer (CCA), Dyslexic Browser, AXE DevTools, Lighthouse, Siteimprove Accessibility Checker, WebAIM, Access Assistant, ANDI, WAVE, Accessibility Insights for Web, Bookmarklets
 * Web & Dev tools: HTML/CSS, DevTools
 * Project & productivity tools: Azure DevOps, MS Office, Adobe Acrobat
+
 ---
 ## **Education:**
 
