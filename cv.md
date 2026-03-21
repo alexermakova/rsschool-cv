@@ -7,6 +7,7 @@
 **Phone:** +375 29 657-92-41  
 **E-mail:** alex.ermakova8@gmail.com   
 **LinkedIn:** linkedin.com/in/alexandra-ermakova  
+
 ---
 ## **About Me:**
 I am an Accessibility Software Testing Engineer with over 4 years of experience in testing web, desktop, and mobile applications. I am skilled in a wide range of testing types, including functional, regression, exploratory, integration, GUI, accessibility, and cross-browser testing.
