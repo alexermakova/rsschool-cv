@@ -4,8 +4,8 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="style.css" />
-    <link rel="icon" href="assets/img/favicon.ico" />
+    <link rel="stylesheet" href="style.css">
+    <link rel="icon" href="assets/img/favicon.ico">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap"
@@ -14,7 +14,195 @@
 </head>
 
 <body>
+    <header class="header">
+        <div class="container header-container">
+            <nav class="nav">
+                <ul class="nav-list">
+                    <li class="nav-item"><a href="#contacts" class="nav-link">Contacts</a></li>
+                    <li class="nav-item"><a href="#summary" class="nav-link">Summary</a></li>
+                    <li class="nav-item"><a href="#experience" class="nav-link">Experience</a></li>
+                    <li class="nav-item"><a href="#skills" class="nav-link">Skills</a></li>
+                    <li class="nav-item"><a href="#education" class="nav-link">Education</a></li>
+                    <li class="nav-item"><a href="#languages" class="nav-link">Languages</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+    <main class="main">
+        <div class="container main-container">
+            <section class="section section-profile" id="profile">
+                <img class="profile-avatar" alt="Avatar" src="./assets/img/avatar.jpg">
+                <div class="section-profile-title">
+                    <h1 class="section-title main-title">Aliaksandra Yermakova</h1>
+                    <h2 class="section-subtitle">Software Testing Engineer</h2>
+                </div>
+            </section>
+            <section class="section" id="contacts">
+                <h2>Contacts</h2>
+                <ul class="section-list">
+                    <li class="section-item contacts-item">Belarus, Minsk</li>
+                    <li class="section-item contacts-item">E-mail: <a href="mailto:alex.ermakova8@gmail.com"
+                            title="email">alex.ermakova8@gmail.com</a></li>
+                    <li class="section-item contacts-item">Github: <a href="https://github.com/alexermakova"
+                            title="Github">alexermakova</a> </li>
+                    <li class="section-item contacts-item">Discord:alexyermakova_80458</li>
+                </ul>
+            </section>
+            <section class="section" id="summary">
+                <h2 class="section-title">Summary</h2>
+                <p>
+                    I am an Accessibility Software Testing Engineer with over 4 years of experience in testing web,
+                    desktop, and mobile applications. I am skilled in a wide range of testing types, including
+                    functional, regression, exploratory, integration, GUI, accessibility, and cross-browser testing.
 
+                    I have extensive experience validating new features, ensuring product quality, and improving
+                    usability for diverse users. I pay strong attention to detail and focus on delivering reliable and
+                    user-friendly solutions.
+
+                    In addition, I have over 3 years of professional experience in the field of economics, which has
+                    strengthened my analytical thinking and problem-solving skills.
+
+                </p>
+            </section>
+            <section class="section" id="experience">
+                <h2 class="section-title">Experience</h2>
+                <div class="container">
+                    <h3 class="section-subtitle">EPAM Systems – Accessibility Software Testing Engineer</h3>
+                    <p class="experience-description">Jun 2022 – Present (4+ years)</p>
+
+                    <p>Responsibilities:</p>
+                    <ul class="section-list">
+                        <li class="section-item experience-item">Performed accessibility and functional testing
+                            (desktop, mobile, web) using screen readers (NVDA, JAWS, VoiceOver)</li>
+                        <li class="section-item experience-item">Conducted A11Y assessments for features, regression
+                            testing, and verification after bug fixes</li>
+                        <li class="section-item experience-item">Created and maintained test documentation, bug reports,
+                            checklists, and test cases</li>
+                        <li class="section-item experience-item">Participated in Scrum events: Daily meetings, Sprint
+                            Planning, Demo, Retrospectives</li>
+                        <li class="section-item experience-item">Provided recommendations for bug fixes, researched best
+                            practices, and shared code examples</li>
+                        <li class="section-item experience-item">Coordinated with team members, shared knowledge, and
+                            ensured high-quality deliverables</li>
+                        <li class="section-item experience-item">Executed crowd testing and collaborated across multiple
+                            projects</li>
+                    </ul>
+                    <p>Tools & Technologies:</p>
+                    <ul class="section-list">
+                        <li class="section-item experience-item">Platforms & Browsers: MacOS, Windows, iOS, Android;
+                            Chrome, Firefox, Safari, Edge</li>
+                        <li class="section-item experience-item">Accessibility Standards: WCAG 2.0/2.1/2.2, WAI-ARIA
+                        </li>
+                        <li class="section-item experience-item">Testing Tools: DevTools, AXE DevTools, Lighthouse,
+                            Siteimprove, WebAIM, JAWS, NVDA, VoiceOver, Color Contrast Analyzer, Dyslexic Browser, WAVE,
+                            Bookmarklets, Accessibility Insights for Web</li>
+                        <li class="section-item experience-item">Productivity & Collaboration: Azure DevOps, Jira, MS
+                            Office, SharePoint, Adobe Acrobat</li>
+                    </ul>
+                </div>
+                <div class="container">
+                    <h3 class="section-subtitle">United Accounts – Accountant</h3>
+                    <p class="experience-description">Jun 2018 – May 2021 (3 yr)</p>
+
+                    <p>Responsibilities:</p>
+                    <ul class="section-list">
+                        <li class="section-item experience-item">Maintaining primary documentation and invoicing</li>
+                        <li class="section-item experience-item">Accounting of loans, rent, insurance, and fixed assets
+                        </li>
+                        <li class="section-item experience-item">Assisting in financial statements and accounting
+                            processes</li>
+                    </ul>
+                    <p>Tools & Technologies: 1C Enterprise, MS Office</p>
+                </div>
+            </section>
+            <section class="section" id="skills">
+                <h2 class="section-title">Skills</h2>
+                <div class="container">
+                    <p>Accessibility Testing:</p>
+                    <ul class="section-list">
+                        <li class="section-item skills-item">Proficient in accessibility testing on Windows (Chrome,
+                            Edge,
+                            Firefox), iOS (Safari, Chrome, Firefox), MacOS (Safari, Chrome, Firefox)</li>
+                        <li class="section-item skills-item">Practical experience with screen readers: NVDA, JAWS,
+                            VoiceOver
+                        </li>
+                        <li class="section-item skills-item">Performing accessibility assessments (A11y) for features
+                            and
+                            providing recommendations for bug fixes</li>
+                    </ul>
+                    <p>Testing & QA:</p>
+                    <ul class="section-list">
+                        <li class="section-item skills-item">Creating/updating test documentation, defect hunting, bug
+                            reporting, maintaining, and retesting</li>
+                        <li class="section-item skills-item">Review, analysis, and clarification of requirements</li>
+                        <li class="section-item skills-item">Participated in crowd testing on Test IO</li>
+                    </ul>
+                    <p>Agile & Teamwork:</p>
+                    <ul class="section-list">
+                        <li class="section-item skills-item">Participated in Scrum events: Daily Meeting, Sprint
+                            Planning,
+                            Demo, Review, Retrospective</li>
+                        <li class="section-item skills-item">Good team player with time management, communication, and
+                            interpersonal skills</li>
+                        <li class="section-item skills-item">Self-motivated, responsible, and quick to learn new
+                            technologies</li>
+                    </ul>
+                    <p>Tools & Technologies:</p>
+                    <ul class="section-list">
+                        <li class="section-item skills-item">Accessibility standards & guidelines: WCAG 2.0, WCAG 2.1,
+                            WCAG
+                            2.2, WAI-ARIA</li>
+                        <li class="section-item skills-item">Testing & analysis tools: JAWS, NVDA, VoiceOver, Color
+                            Contrast
+                            Analyzer (CCA), Dyslexic Browser, AXE DevTools, Lighthouse, Siteimprove Accessibility
+                            Checker,
+                            WebAIM, Access Assistant, ANDI, WAVE, Accessibility Insights for Web, Bookmarklets</li>
+                        <li class="section-item skills-item">Web & Dev tools: HTML/CSS, DevTools</li>
+                        <li class="section-item skills-item">Project & productivity tools: Azure DevOps, Jura, MS
+                            Office,
+                            Adobe Acrobat</li>
+                    </ul>
+                </div>
+            </section>
+            <section class="section" id="education">
+                <h2 class="section-title">Education</h2>
+                <h3 class="section-subtitle">Belarusian State University of Economics </h3>
+                <p>
+                    Bachelor's Degree 2021
+                    Faculty of Accounting and Economics
+                    Accounting, analysis and audit in commercial and nonprofit organizations
+                </p>
+                <h3 class="section-subtitle">Cources:</h3>
+                <h4 class="section-subtitile">Software testing</h4>
+                <p>
+                    IT Academy
+                    July 2021-September 2021
+                </p>
+                <h4 class="section-subtitle">Trusted tester</h4>
+                <p>
+                    DHS Trusted Tester™ Certification
+                    U.S. Department of Homeland Security
+                </p>
+            </section>
+            <section class="section" id="languages">
+                <h2 class="section-title">Languages</h2>
+                <p>
+                    Russian – Native (C2)
+                    English – Upper-Intermediate (B2)
+                </p>
+            </section>
+        </div>
+    </main>
+    <footer class="footer">
+        <div class="container footer-container">
+            <div>
+                &COPY;2026
+                <a href="https://github.com/alexermakova" title="Github">alexermakova</a>
+            </div>
+            <a href="https://rs.school/courses/javascript" title="Javascript course"><img
+                    src="./assets/img/rs-school-logo.svg" alt="RSSchool Logo"></a>
+        </div>
+    </footer>
 </body>
 
 </html>
