@@ -2,10 +2,19 @@ body {
     font-family: "Roboto", sans-serif;
     font-optical-sizing: auto;
     font-weight: 400;
-    font-style: 18px;
+    font-style: normal;
+    font-size: 18px;
     font-variation-settings:
         "wdth" 100;
-    min-height: 100vh
+    min-height: 100vh;
+    min-width: 320px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    margin: 0;
+    padding: 0;
+    line-height: 1.5;
+    color: #333333;
 }
 
 @font-face {
@@ -21,8 +30,95 @@ body {
     box-sizing: border-box;
 }
 
-body {
+.rss {
+    width: 120px;
+    height: 45px;
+}
+
+.footer {
+    padding: 20px;
+}
+
+footer {
+    display: block;
+    unicode-bidi: isolate;
+    background-color: #e7e8e6;
+    ;
+}
+
+.footer-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.nav-link {
+    color: #20399D;
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+.contacts-link {
+    color: #20399D;
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+.header {
+    display: block;
+    unicode-bidi: isolate;
+    background-color: #e7e8e6;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.container {
+    padding: 0 20px;
+    max-width: 1440px;
+    min-height: 50px;
+}
+
+.nav-list {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    padding: 0px;
+    margin: 0px;
+    list-style: none;
+}
+
+.header-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.favicon {
+    width: 100px;
+    height: 100px;
+}
+
+.section-profile {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    margin: 20px 0px;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.profile-avatar {
+    width: 240px;
+    height: 240px;
+    border-radius: 50%;
+    object-fit: cover;
+    border: 2px solid #333333;
+}
+
+.section-profile-title {
     display: flex;
     flex-direction: column;
-    justify-content: space-between;
+    margin: 0px 20px;
+
 }
