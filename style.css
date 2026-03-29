@@ -124,3 +124,23 @@ footer {
     justify-content: center;
     padding: 0 20px;
 }
+
+.profile-main {
+    display: flex;
+    gap: 40px;
+    margin-top: 40px;
+}
+
+.profile-left {
+    flex: 1;
+    max-width: 400px;
+}
+
+.profile-right {
+    flex: 2;
+}
+
+.profile-left section,
+.profile-right section {
+    margin-bottom: 30px;
+}
