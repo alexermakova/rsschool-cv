@@ -257,3 +257,63 @@ a:hover {
     color: #555;
     margin: 5px 0 15px;
 }
+
+@media (max-width: 768px) {
+    .profile-main {
+        flex-direction: column;
+        gap: 20px;
+        align-items: center;
+    }
+
+    .header {
+        flex-direction: column;
+        gap: 15px;
+        align-items: center;
+        padding: 20px 10px;
+    }
+
+    .header-container {
+        flex-direction: column;
+        gap: 10px;
+        align-items: center;
+    }
+
+    .nav-list {
+        flex-direction: column;
+        gap: 10px;
+        align-items: center;
+    }
+
+    .profile-left,
+    .profile-right {
+        max-width: 100%;
+        padding: 15px;
+    }
+
+    .profile-container,
+    .section-profile {
+        flex-direction: column;
+        padding: 20px;
+    }
+
+    .profile-avatar {
+        width: 180px;
+        height: 180px;
+    }
+
+    .main-title {
+        font-size: 26px;
+        text-align: center;
+    }
+
+    .main-subtitle {
+        font-size: 16px;
+        text-align: center;
+    }
+
+    .contacts-list {
+        padding: 0;
+        margin: 0;
+        width: 100%;
+    }
+}
