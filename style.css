@@ -144,3 +144,14 @@ footer {
 .profile-right section {
     margin-bottom: 30px;
 }
+
+.icon {
+    width: 20px;
+    height: 20px;
+    margin-right: 8px;
+    vertical-align: middle;
+}
+
+.contacts-list {
+    list-style: none;
+}
