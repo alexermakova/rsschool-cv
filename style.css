@@ -15,6 +15,7 @@ body {
     padding: 0;
     line-height: 1.5;
     color: #333333;
+    background-color: #fff;
 }
 
 @font-face {
@@ -53,7 +54,7 @@ footer {
 }
 
 .nav-link {
-    color: #333333;
+    color: #333;
     text-decoration: underline;
     cursor: pointer;
 }
@@ -129,20 +130,32 @@ footer {
     display: flex;
     gap: 40px;
     margin-top: 40px;
+    align-items: flex-start;
 }
 
 .profile-left {
     flex: 1;
     max-width: 400px;
+    padding: 20px;
+    background-color: #f8f7f5;
+    border-radius: 12px;
 }
 
 .profile-right {
     flex: 2;
+    padding: 20px;
 }
 
 .profile-left section,
 .profile-right section {
     margin-bottom: 30px;
+    padding-bottom: 15px;
+    border-bottom: 1px dashed #dddddd;
+}
+
+.profile-left section:last-child,
+.profile-right section:last-child {
+    border-bottom: none;
 }
 
 .icon {
@@ -152,6 +165,37 @@ footer {
     vertical-align: middle;
 }
 
+.contacts-item {
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+}
+
 .contacts-list {
     list-style: none;
+}
+
+.section-title {
+    font-size: 24px;
+    margin-bottom: 10px;
+    padding-bottom: 5 px;
+    border-bottom: 2px solid #cccccc;
+    color: #333333;
+}
+
+.section-subtitle {
+    font-size: 19px;
+    font-weight: 700;
+    color: #555;
+    margin-bottom: 8px;
+}
+
+.profile-left,
+.profile-right {
+    display: flex;
+    flex-direction: column;
+}
+
+a:hover {
+    color: #2a5d9f;
 }
